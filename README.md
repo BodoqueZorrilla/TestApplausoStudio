@@ -1,5 +1,8 @@
 # TestApplausoStudio
 Test by Sergio Zorrilla
+
+
+
 Hi,
 I tried to make the test it the same way you send me the instructions, but I had a problem with the API anilist, those were the steps I made and the results went wrong: (Actualy teste with both apis v1 and v2):
 1: I registed in Anlist to create my API Clients.
